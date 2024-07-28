@@ -4,6 +4,7 @@
 - 🌱 I'm currently going on a broad spectrum of web development by working on Typescript, Go Lang, React etc.
 - 💞️ I’m looking to collaborate on Any cryptograpic, Web Development, Backend.
 - 📫 You can find me on linkedin : https://www.linkedin.com/in/ritik-jaiswal75/
+- :X: You can find me on x/twitter: https://x.com/ritikjaiswal75
 
 <!---
 RitikJaiswal75/RitikJaiswal75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
